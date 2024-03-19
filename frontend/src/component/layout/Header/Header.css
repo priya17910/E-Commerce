@@ -1,0 +1,21 @@
+.speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+}
+
+.speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+    background-color: lightgray;
+}
+
+.speedDial a:hover {
+    background-color: lightgray;
+}
+
+.logoReactNavbar {
+    max-width: 100%;
+    justify-content: flex-end;
+}
